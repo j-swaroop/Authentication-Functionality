@@ -1,0 +1,14 @@
+/* Write your CSS code here */
+.header-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    padding-left: 0;
+}
+.link-item{
+    margin: 10px;
+    font-family: "Roboto";
+    font-size: 18px;
+    padding-left: 0;
+}
